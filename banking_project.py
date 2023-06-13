@@ -17,7 +17,7 @@ class User:
         self.gender = gender
 
     def show_details(self):
-        print("Personal details: ")
+        print("Personal details -> ")
         print("Name:", self.name)
         print("Age:", self.age)
         print("Gender:", self.gender)
